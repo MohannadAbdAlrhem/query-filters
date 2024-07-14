@@ -8,6 +8,6 @@ class QueryFiltersServiceProvider extends ServiceProvider
 {
     public function register()
     {
-        dd('testPackage');
+        dd('Fuck You Amjad');
     }
 }
